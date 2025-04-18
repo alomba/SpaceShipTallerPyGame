@@ -1,4 +1,4 @@
-# SpaceShipProject_Modular
+# Space Ship
 
 Juego de disparos espacial desarrollado con Pygame, organizado de forma modular para facilitar su comprensión y mantenimiento.
 
