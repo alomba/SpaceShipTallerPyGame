@@ -34,7 +34,7 @@ cd SpaceShipProject_Modular
 ```
 2. Asegúrate de tener la carpeta `assets/` con todos los archivos multimedia.
 3. Instala Pygame:
-   ```bash
+```bash
 pip install pygame
 ```
 
