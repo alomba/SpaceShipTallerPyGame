@@ -28,7 +28,7 @@ SpaceShipProject_Modular/
 ## ⚙️ Instalación
 
 1. Clona el repositorio:
-   ```bash
+```bash
 git clone https://github.com/tu-usuario/SpaceShipProject_Modular.git
 cd SpaceShipProject_Modular
 ```
