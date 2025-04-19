@@ -2,6 +2,8 @@
 
 Juego de disparos espacial desarrollado con Pygame, organizado de forma modular para facilitar su comprensión y mantenimiento.
 
+<p align="center"> <a href="https://www.youtube.com/watch?v=0j1R6CA_A5M"> <img src="assets/portadaTaller.png" alt="Miniatura  Portada Taller PyGame" width="480"/> </a> </p>
+
 ## 🚀 Características
 
 - **Nave Jugadora:** controlada con las flechas del teclado y dispara con la barra espaciadora.
@@ -39,6 +41,7 @@ pip install pygame
 ```
 4. 📺 Video tutorial de instalación (Si empiezas de cero esto puede serte útil)
 Para guiarte paso a paso en la instalación de Python y Pygame, consulta nuestro video tutorial:
+<p align="center"> <a href="https://www.youtube.com/watch?v=0j1R6CA_A5M"> <img src="assets/miniaturaTallerPyGame.jpg" alt="Miniatura Taller PyGame" width="480"/> </a> </p>
 ▶️ Instalación de Python (32 bits) y Pygame
 https://www.youtube.com/watch?v=0j1R6CA_A5M
 
