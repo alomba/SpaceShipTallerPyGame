@@ -47,7 +47,9 @@ Para guiarte paso a paso en la instalación de Python y Pygame, consulta nuestro
 ▶️ Instalación de Python (32 bits) y Pygame
 https://www.youtube.com/watch?v=0j1R6CA_A5M
 
-    “¿Listo para comenzar a crear tu propio videojuego? En este video te enseño cómo instalar Python (32 bits) y Pygame paso a paso. Sigue estos pasos y estarás más cerca de convertirte en un desarrollador de videojuegos. ¡No olvides apuntarte a nuestro Taller ‘Crea Tu Videojuego’! 🚀
+    “¿Listo para comenzar a crear tu propio videojuego? En este video te enseño cómo instalar Python (32 bits) 
+    y Pygame paso a paso. Sigue estos pasos y estarás más cerca de convertirte en un desarrollador de videojuegos. 
+    ¡No olvides apuntarte a nuestro Taller ‘Crea Tu Videojuego’! 🚀
 
     🔗 Enlaces importantes:
     • Web de Python (descarga 32 bits): https://www.python.org/ftp/python/3.1...
