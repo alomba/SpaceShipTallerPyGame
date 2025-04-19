@@ -2,7 +2,9 @@
 
 Juego de disparos espacial desarrollado con Pygame, organizado de forma modular para facilitar su comprensión y mantenimiento.
 
-<p align="center"> <img src="assets/PortadaTaller.png" alt="Miniatura  Portada Taller PyGame" width="480"/> </a> </p>
+<p align="center">
+  <img src="assets/PortadaTallerPyGame.png" alt="Menu Background" width="650" />
+</p>
 
 ## 🚀 Características
 
