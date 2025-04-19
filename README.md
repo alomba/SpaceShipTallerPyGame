@@ -61,6 +61,31 @@ python main.py
 - **game.py:** implementación de `run_game()` con bucle de eventos, colisiones y dibujo.
 - **main.py:** inicialización de Pygame, carga de recursos, inyección de dependencias y bucle principal.
 
+## Ejercicios
+
+Para asegurar que entiendes todo lo que se cubre en el taller y poder hacer el juego se diseñaron unos ejercicios básicos de introducción a los conceptos fundamentales que se usan en el proyecto
+
+## 🚀 Ejercicios básicos de introducción
+
+1. 📦 **Ejercicio 1: Módulos y constantes globales**  
+   **Objetivo:** Organizar la configuración en `settings.py` e importar sus constantes (`WIDTH`, `HEIGHT`, `FPS`, colores) desde `main.py`, comprobando en consola que funcionan correctamente.
+
+2. 🛠️ **Ejercicio 2: Funciones y retorno**  
+   **Objetivo:** Definir funciones en Python que reciban parámetros y devuelvan valores. Reescribir `draw_score` como `format_score(text)` para formatear y devolver la puntuación.
+
+3. 📋 **Ejercicio 3: Listas y comprensiones**  
+   **Objetivo:** Practicar list‑comprehensions y bucles. Generar la lista `['asteroid1.gif', ..., 'asteroid12.gif']` primero con comprensión y después con un `for`, verificando que son idénticas.
+
+4. 🕹️ **Ejercicio 4: Clases e herencia en Pygame**  
+   **Objetivo:** Introducir POO en Pygame: crear `SimpleSprite` heredando de `pygame.sprite.Sprite`, definiendo `image` y `rect`, y moviéndolo con `update()`.
+
+5. 🔄 **Ejercicio 5: Bucle principal de Pygame**  
+   **Objetivo:** Construir el esqueleto de un juego: inicializar Pygame, crear ventana, gestionar el bucle `while` con `clock.tick(FPS)`, procesar `QUIT`, pintar fondo y actualizar pantalla.
+
+6. ✨ **Ejercicio 6: Función genérica `new_object`**  
+   **Objetivo:** Usar `*args` y `**kwargs` para crear una utilidad que instancie cualquier sprite, lo añada a un grupo y lo devuelva, integrándolo en un mini‑proyecto completo.
+
+
 
 ## 📄 Licencia
 
