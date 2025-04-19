@@ -37,6 +37,32 @@ cd SpaceShipProject_Modular
 ```bash
 pip install pygame
 ```
+4. 📺 Video tutorial de instalación (Si empiezas de cero esto puede serte útil)
+Para guiarte paso a paso en la instalación de Python y Pygame, consulta nuestro video tutorial:
+▶️ Instalación de Python (32 bits) y Pygame
+https://www.youtube.com/watch?v=0j1R6CA_A5M
+
+    “¿Listo para comenzar a crear tu propio videojuego? En este video te enseño cómo instalar Python (32 bits) y Pygame paso a paso. Sigue estos pasos y estarás más cerca de convertirte en un desarrollador de videojuegos. ¡No olvides apuntarte a nuestro Taller ‘Crea Tu Videojuego’! 🚀
+
+    🔗 Enlaces importantes:
+    • Web de Python (descarga 32 bits): https://www.python.org/ftp/python/3.1...
+    • Web de Pygame: https://pypi.org/project/pygame/
+    • Apúntate al Taller “Crea Tu Videojuego” en CODECAN
+
+    ⚙️ Pasos para instalar Python (32 bits):
+    ✅ Ejecuta como administrador.
+    ✅ Marca “Add python.exe to PATH”.
+    💻 En CMD, ejecuta py --version para verificar.
+
+    ⚙️ Instalando y probando Pygame:
+    1️⃣ pip install pygame
+    2️⃣ py -m pygame.examples.aliens
+    3️⃣ En IDLE, prueba:
+
+print("Prueba de Python para curso de CODECAN")
+import pygame, sys; print("Si esto funciona estamos listos")
+
+¡Y listo! Ya tienes el entorno preparado.
 
 ## ▶️ Uso
 
