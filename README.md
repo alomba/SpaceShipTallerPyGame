@@ -64,10 +64,10 @@ https://www.youtube.com/watch?v=0j1R6CA_A5M
     2️⃣ py -m pygame.examples.aliens
     3️⃣ En IDLE, prueba:
 
-print("Prueba de Python para curso de CODECAN")
-import pygame, sys; print("Si esto funciona estamos listos")
+    print("Prueba de Python para curso de CODECAN")
+    import pygame, sys; print("Si esto funciona estamos listos")
 
-¡Y listo! Ya tienes el entorno preparado.
+    ¡Y listo! Ya tienes el entorno preparado.
 
 ## ▶️ Uso
 
