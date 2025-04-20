@@ -1,6 +1,6 @@
 # Space Ship
 
-Juego de disparos espacial desarrollado con Pygame, organizado de forma modular para facilitar su comprensión y mantenimiento.
+Juego de disparos espacial desarrollado con Pygame.
 
 <p align="center">
   <img src="assets/PortadaTallerPyGame.png" alt="Menu Background" width="650" />
